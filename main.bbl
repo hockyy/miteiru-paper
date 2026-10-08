@@ -1,0 +1,519 @@
+\begin{thebibliography}{68}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[ani(2026)]{animelon}
+Animelon.
+\newblock \url{https://animelon.com/}, 2026.
+\newblock Website for watching anime with Japanese and English subtitles for
+  learners. Accessed: 2026-10-08.
+
+\bibitem[{Ankitects Pty Ltd and contributors}(2026)]{anki}
+{Ankitects Pty Ltd and contributors}.
+\newblock Anki: Powerful, intelligent flashcards.
+\newblock \url{https://apps.ankiweb.net/}, 2026.
+\newblock Open-source spaced-repetition software (AGPL-3.0); source at
+  https://github.com/ankitects/anki. Accessed: 2026-10-08.
+
+\bibitem[{Anysphere, Inc.}(2026)]{cursor}
+{Anysphere, Inc.}
+\newblock Cursor.
+\newblock \url{https://cursor.com/}, 2026.
+\newblock AI coding editor and agent. Accessed: 2026-10-08.
+
+\bibitem[{asbplayer contributors}(2026)]{asbplayer}
+{asbplayer contributors}.
+\newblock asbplayer: Browser-based media player and {Chrome} extension for
+  subtitle sentence mining.
+\newblock \url{https://github.com/asbplayer/asbplayer}, 2026.
+\newblock AGPL-3.0. Repository formerly at github.com/killergerbah/asbplayer.
+  Accessed: 2026-10-08.
+
+\bibitem[Becker et~al.(2025)Becker, Rush, Barnes, and
+  Rein]{becker2025measuring}
+Joel Becker, Nate Rush, Elizabeth Barnes, and David Rein.
+\newblock Measuring the impact of early-2025 {AI} on experienced open-source
+  developer productivity, 2025.
+
+\bibitem[Breen(2004)]{breen2004jmdict}
+Jim Breen.
+\newblock {JMdict}: a {Japanese}-multilingual dictionary.
+\newblock In \emph{Proceedings of the Workshop on Multilingual Linguistic
+  Resources}, pages 65--72, Geneva, Switzerland, 2004. COLING.
+\newblock URL \url{https://aclanthology.org/W04-2209/}.
+
+\bibitem[{CanCLID}(2026)]{tojyutping}
+{CanCLID}.
+\newblock to-jyutping: {Cantonese} pronunciation automatic labeling tool.
+\newblock \url{https://github.com/CanCLID/to-jyutping}, 2026.
+\newblock GitHub repository (BSD-2-Clause). Accessed: 2026-10-08.
+
+\bibitem[Cepeda et~al.(2006)Cepeda, Pashler, Vul, Wixted, and
+  Rohrer]{cepeda2006distributed}
+Nicholas~J. Cepeda, Harold Pashler, Edward Vul, John~T. Wixted, and Doug
+  Rohrer.
+\newblock Distributed practice in verbal recall tasks: A review and
+  quantitative synthesis.
+\newblock \emph{Psychological Bulletin}, 132\penalty0 (3):\penalty0 354--380,
+  2006.
+\newblock \doi{10.1037/0033-2909.132.3.354}.
+
+\bibitem[Chen(2004)]{chen2004hong}
+Chapman Chen.
+\newblock On the {Hong Kong} {Chinese} subtitling of {English} swearwords.
+\newblock \emph{Meta}, 49\penalty0 (1):\penalty0 135--147, 2004.
+\newblock \doi{10.7202/009029ar}.
+
+\bibitem[Chung(2003)]{chung2003effects}
+Kevin K.~H. Chung.
+\newblock Effects of pinyin and first language words in learning of {Chinese}
+  characters as a second language.
+\newblock \emph{Journal of Behavioral Education}, 12\penalty0 (3):\penalty0
+  207--223, 2003.
+\newblock \doi{10.1023/A:1025560327860}.
+
+\bibitem[Culbertson et~al.(2017)Culbertson, Shen, Andersen, and
+  Jung]{culbertson2017have}
+Gabriel Culbertson, Solace Shen, Erik Andersen, and Malte Jung.
+\newblock Have your cake and eat it too: Foreign language learning with a
+  crowdsourced video captioning system.
+\newblock In \emph{Proceedings of the 2017 ACM Conference on Computer Supported
+  Cooperative Work and Social Computing (CSCW '17)}, pages 286--296, New York,
+  NY, USA, 2017. ACM.
+\newblock \doi{10.1145/2998181.2998268}.
+
+\bibitem[Den et~al.(2008)Den, Nakamura, Ogiso, and Ogura]{den2008proper}
+Yasuharu Den, Junpei Nakamura, Toshinobu Ogiso, and Hideki Ogura.
+\newblock A proper approach to {Japanese} morphological analysis: Dictionary,
+  model, and evaluation.
+\newblock In \emph{Proceedings of the Sixth International Conference on
+  Language Resources and Evaluation (LREC'08)}, pages 1019--1024, Marrakech,
+  Morocco, 2008. European Language Resources Association (ELRA).
+\newblock URL \url{https://aclanthology.org/L08-1535/}.
+
+\bibitem[Denisowski(2019)]{vnedict}
+Paul Denisowski.
+\newblock {VNEDICT} ({Vietnamese}-{English} dictionary).
+\newblock \url{http://www.denisowski.org/Vietnamese/vnedict_readme.html}, 2019.
+\newblock Release of 15 February 2019 (55,483 entries); CC BY 3.0. Accessed:
+  2026-10-08.
+
+\bibitem[Desjardins and Ball(2018)]{desjardins2018revealing}
+Audrey Desjardins and Aubree Ball.
+\newblock Revealing tensions in autobiographical design in {HCI}.
+\newblock In \emph{Proceedings of the 2018 Designing Interactive Systems
+  Conference (DIS '18)}, pages 753--764, New York, NY, USA, 2018. ACM.
+\newblock \doi{10.1145/3196709.3196781}.
+
+\bibitem[Dizon and Thanyawatpokin(2021)]{dizon2021netflix}
+Gilbert Dizon and Benjamin Thanyawatpokin.
+\newblock Language learning with {Netflix}: Exploring the effects of dual
+  subtitles on vocabulary learning and listening comprehension.
+\newblock \emph{Computer-Assisted Language Learning Electronic Journal
+  (CALL-EJ)}, 22\penalty0 (3):\penalty0 52--65, 2021.
+\newblock URL \url{https://callej.org/index.php/journal/article/view/352}.
+
+\bibitem[{Electronic Dictionary Research and Development
+  Group}(2026)]{kanjidic}
+{Electronic Dictionary Research and Development Group}.
+\newblock The {KANJIDIC} project.
+\newblock \url{https://www.edrdg.org/wiki/KANJIDIC_Project.html}, 2026.
+\newblock Kanji dictionary file; project begun in 1991. Accessed: 2026-10-08.
+
+\bibitem[{FooSoft}(2026)]{yomichan}
+{FooSoft}.
+\newblock Yomichan: {Japanese} pop-up dictionary extension for {Chrome} and
+  {Firefox}.
+\newblock \url{https://github.com/FooSoft/yomichan}, 2026.
+\newblock Archived GitHub repository; succeeded by Yomitan. Accessed:
+  2026-10-08.
+
+\bibitem[{fxsjy}(2026)]{jieba}
+{fxsjy}.
+\newblock Jieba: {Chinese} word segmentation.
+\newblock \url{https://github.com/fxsjy/jieba}, 2026.
+\newblock GitHub repository (MIT licence). Accessed: 2026-10-08.
+
+\bibitem[Goss and Tamaoka(2019)]{goss2019lexical}
+Seth~J. Goss and Katsuo Tamaoka.
+\newblock Lexical accent perception in highly-proficient {L2} {Japanese}
+  learners: The roles of language-specific experience and domain-general
+  resources.
+\newblock \emph{Second Language Research}, 35\penalty0 (3):\penalty0 351--376,
+  2019.
+\newblock \doi{10.1177/0267658318775143}.
+
+\bibitem[He et~al.(2026)He, Miller, Agarwal, K{\"a}stner, and
+  Vasilescu]{he2026speed}
+Hao He, Courtney Miller, Shyam Agarwal, Christian K{\"a}stner, and Bogdan
+  Vasilescu.
+\newblock Speed at the cost of quality: How {Cursor} {AI} increases short-term
+  velocity and long-term complexity in open-source projects.
+\newblock In \emph{Proceedings of the 23rd International Conference on Mining
+  Software Repositories (MSR '26)}, pages 181--193, New York, NY, USA, 2026.
+  ACM.
+\newblock \doi{10.1145/3793302.3793349}.
+
+\bibitem[Kalliamvakou et~al.(2014)Kalliamvakou, Gousios, Blincoe, Singer,
+  German, and Damian]{kalliamvakou2014promises}
+Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel~M.
+  German, and Daniela Damian.
+\newblock The promises and perils of mining {GitHub}.
+\newblock In \emph{Proceedings of the 11th Working Conference on Mining
+  Software Repositories (MSR 2014)}, pages 92--101, New York, NY, USA, 2014.
+  ACM.
+\newblock \doi{10.1145/2597073.2597074}.
+
+\bibitem[Khosravani and Mockus(2026)]{khosravani2026detecting}
+Arsham Khosravani and Audris Mockus.
+\newblock Detecting {AI} coding agents in open source: A validated multi-method
+  census of 180 million repositories, 2026.
+
+\bibitem[Kovacs and Miller(2014)]{kovacs2014smart}
+Geza Kovacs and Robert~C. Miller.
+\newblock Smart subtitles for vocabulary learning.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems (CHI '14)}, pages 853--862, New York, NY, USA, 2014. ACM.
+\newblock \doi{10.1145/2556288.2557256}.
+
+\bibitem[Krashen(1985)]{krashen1985input}
+Stephen~D. Krashen.
+\newblock \emph{The Input Hypothesis: Issues and Implications}.
+\newblock Longman, London and New York, 1985.
+
+\bibitem[Kudo(2026)]{mecab}
+Taku Kudo.
+\newblock {MeCab}: Yet another part-of-speech and morphological analyzer.
+\newblock \url{https://taku910.github.io/mecab/}, 2026.
+\newblock Source: https://github.com/taku910/mecab. Accessed: 2026-10-08.
+
+\bibitem[Kudo et~al.(2004)Kudo, Yamamoto, and Matsumoto]{kudo2004applying}
+Taku Kudo, Kaoru Yamamoto, and Yuji Matsumoto.
+\newblock Applying conditional random fields to {Japanese} morphological
+  analysis.
+\newblock In Dekang Lin and Dekai Wu, editors, \emph{Proceedings of the 2004
+  Conference on Empirical Methods in Natural Language Processing}, pages
+  230--237, Barcelona, Spain, 2004. Association for Computational Linguistics.
+\newblock URL \url{https://aclanthology.org/W04-3230/}.
+
+\bibitem[{Language Reactor}(2026)]{languagereactor}
+{Language Reactor}.
+\newblock Language reactor.
+\newblock \url{https://www.languagereactor.com/}, 2026.
+\newblock Browser extension, formerly ``Language Learning with Netflix''.
+  Accessed: 2026-10-08.
+
+\bibitem[Lee and Kalyuga(2011{\natexlab{a}})]{lee2011effectiveness}
+Chee~Ha Lee and Slava Kalyuga.
+\newblock Effectiveness of different pinyin presentation formats in learning
+  {Chinese} characters: A cognitive load perspective.
+\newblock \emph{Language Learning}, 61\penalty0 (4):\penalty0 1099--1118,
+  2011{\natexlab{a}}.
+\newblock \doi{10.1111/j.1467-9922.2011.00666.x}.
+
+\bibitem[Lee and Kalyuga(2011{\natexlab{b}})]{lee2011onscreen}
+Chee~Ha Lee and Slava Kalyuga.
+\newblock Effectiveness of on-screen pinyin in learning {Chinese}: An expertise
+  reversal for multimedia redundancy effect.
+\newblock \emph{Computers in Human Behavior}, 27\penalty0 (1):\penalty0 11--15,
+  2011{\natexlab{b}}.
+\newblock \doi{10.1016/j.chb.2010.05.005}.
+
+\bibitem[Lee et~al.(2022)Lee, Chen, Lam, Lau, and Tsui]{lee2022pycantonese}
+Jackson~L. Lee, Litong Chen, Charles Lam, Chaak~Ming Lau, and Tsz-Him Tsui.
+\newblock {PyCantonese}: {Cantonese} linguistics and {NLP} in {Python}.
+\newblock In \emph{Proceedings of the Thirteenth Language Resources and
+  Evaluation Conference}, pages 6607--6611, Marseille, France, 2022. European
+  Language Resources Association.
+\newblock URL \url{https://aclanthology.org/2022.lrec-1.711/}.
+
+\bibitem[Li et~al.(2026)Li, Zhang, and Hassan]{li2026aidev}
+Hao Li, Haoxiang Zhang, and Ahmed~E. Hassan.
+\newblock {AIDev}: Studying {AI} coding agents on {GitHub}.
+\newblock In \emph{Proceedings of the 23rd International Conference on Mining
+  Software Repositories (MSR '26)}, pages 1029--1033, New York, NY, USA, 2026.
+  ACM.
+\newblock \doi{10.1145/3793302.3797249}.
+
+\bibitem[{Linguistic Society of Hong Kong}(1993)]{lshkjyutping}
+{Linguistic Society of Hong Kong}.
+\newblock Jyutping {Cantonese} romanization scheme.
+\newblock \url{https://lshk.org/jyutping-scheme/}, 1993.
+\newblock Scheme designed and proposed by the LSHK in 1993. Accessed:
+  2026-10-08.
+
+\bibitem[Liu et~al.(2026)Liu, Widyasari, Zhao, Irsan, Chen, and
+  Lo]{liu2026debt}
+Yue Liu, Ratnadira Widyasari, Yanjie Zhao, Ivana~Clairine Irsan, Junkai Chen,
+  and David Lo.
+\newblock Debt behind the {AI} boom: A large-scale empirical study of
+  {AI}-generated code in the wild, 2026.
+
+\bibitem[Luke and Wong(2015)]{luke2015hkcancor}
+Kang~Kwong Luke and May L.-Y. Wong.
+\newblock The {Hong Kong Cantonese Corpus}: Design and uses.
+\newblock In Benjamin Tsou and Oi~Yee Kwong, editors, \emph{Linguistic Corpus
+  and Corpus Linguistics in the {Chinese} Context}, number~25 in Journal of
+  Chinese Linguistics Monograph Series, pages 312--333. The University of
+  California, Berkeley, CA, 2015.
+
+\bibitem[Matthews and Yip(2011)]{matthews2011cantonese}
+Stephen Matthews and Virginia Yip.
+\newblock \emph{Cantonese: A Comprehensive Grammar}.
+\newblock Routledge Comprehensive Grammars. Routledge, London and New York, 2nd
+  edition, 2011.
+\newblock ISBN 9780415471312.
+
+\bibitem[{MDBG}(2026)]{ccedict}
+{MDBG}.
+\newblock {CC-CEDICT}.
+\newblock \url{https://cc-cedict.org/wiki/}, 2026.
+\newblock Chinese-English dictionary, continuation of CEDICT (started by Paul
+  Denisowski in 1997); CC BY-SA 4.0. Download:
+  https://www.mdbg.net/chinese/dictionary?page=cc-cedict. Accessed: 2026-10-08.
+
+\bibitem[{MeCab project}(2026)]{ipadic}
+{MeCab project}.
+\newblock mecab-ipadic (version 2.7.0).
+\newblock \url{https://taku910.github.io/mecab/}, 2026.
+\newblock IPA dictionary for MeCab, built from the IPA dictionary and IPA
+  corpus; distributed with MeCab
+  (https://github.com/taku910/mecab/tree/master/mecab-ipadic). Accessed:
+  2026-10-08.
+
+\bibitem[{messense}(2026)]{jiebars}
+{messense}.
+\newblock jieba-rs: The jieba {Chinese} word segmentation implemented in
+  {Rust}.
+\newblock \url{https://github.com/messense/jieba-rs}, 2026.
+\newblock GitHub repository (MIT licence); Node.js binding via @node-rs/jieba
+  (https://github.com/napi-rs/node-rs). Accessed: 2026-10-08.
+
+\bibitem[{mifunetoshiro}(2026)]{kanjium}
+{mifunetoshiro}.
+\newblock Kanjium: The ultimate kanji resource.
+\newblock \url{https://github.com/mifunetoshiro/kanjium}, 2026.
+\newblock Includes pitch-accent data (accents.txt); CC BY-SA 4.0. Accessed:
+  2026-10-08.
+
+\bibitem[{Migaku}(2026)]{migaku}
+{Migaku}.
+\newblock Migaku.
+\newblock \url{https://migaku.com/}, 2026.
+\newblock Language-learning app and browser extension. Accessed: 2026-10-08.
+
+\bibitem[Mitterer and McQueen(2009)]{mitterer2009foreign}
+Holger Mitterer and James~M. McQueen.
+\newblock Foreign subtitles help but native-language subtitles harm foreign
+  speech perception.
+\newblock \emph{PLoS ONE}, 4\penalty0 (11):\penalty0 e7785, 2009.
+\newblock \doi{10.1371/journal.pone.0007785}.
+
+\bibitem[{Montero Perez} et~al.(2013){Montero Perez}, {Van Den Noortgate}, and
+  Desmet]{monteroperez2013captioned}
+Maribel {Montero Perez}, Wim {Van Den Noortgate}, and Piet Desmet.
+\newblock Captioned video for {L2} listening and vocabulary learning: A
+  meta-analysis.
+\newblock \emph{System}, 41\penalty0 (3):\penalty0 720--739, 2013.
+\newblock \doi{10.1016/j.system.2013.07.013}.
+
+\bibitem[{National Institute for Japanese Language and
+  Linguistics}(2026)]{unidic}
+{National Institute for Japanese Language and Linguistics}.
+\newblock {UniDic}.
+\newblock \url{https://clrd.ninjal.ac.jp/unidic/en/}, 2026.
+\newblock Electronic dictionary for Japanese morphological analysis; GPL-2.0 /
+  LGPL-2.1 / BSD triple licence. Accessed: 2026-10-08.
+
+\bibitem[Neustaedter and Sengers(2012)]{neustaedter2012autobiographical}
+Carman Neustaedter and Phoebe Sengers.
+\newblock Autobiographical design in {HCI} research: Designing and learning
+  through use-it-yourself.
+\newblock In \emph{Proceedings of the Designing Interactive Systems Conference
+  (DIS '12)}, pages 514--523, New York, NY, USA, 2012. ACM.
+\newblock \doi{10.1145/2317956.2318034}.
+
+\bibitem[Nguyen et~al.(2018)Nguyen, Nguyen, Vu, Dras, and
+  Johnson]{nguyen2018fast}
+Dat~Quoc Nguyen, Dai~Quoc Nguyen, Thanh Vu, Mark Dras, and Mark Johnson.
+\newblock A fast and accurate {Vietnamese} word segmenter.
+\newblock In \emph{Proceedings of the Eleventh International Conference on
+  Language Resources and Evaluation (LREC 2018)}, pages 2582--2587, Miyazaki,
+  Japan, 2018. European Language Resources Association (ELRA).
+\newblock URL \url{https://aclanthology.org/L18-1410/}.
+
+\bibitem[{NHK H{\=o}s{\=o} Bunka Kenky{\=u}jo}(2016)]{nhk2016accent}
+{NHK H{\=o}s{\=o} Bunka Kenky{\=u}jo}, editor.
+\newblock \emph{{NHK} Nihongo Hatsuon Akusento Shin Jiten}.
+\newblock NHK Shuppan, Tokyo, 2016.
+\newblock ISBN 9784140113455.
+\newblock [NHK Japanese pronunciation and accent dictionary, new edition]. In
+  Japanese.
+
+\bibitem[{ookii-tsuki}(2026)]{anisubber}
+{ookii-tsuki}.
+\newblock Anisubber: Learn {Japanese} from anime and {Japanese} drama.
+\newblock \url{https://ookii-tsuki.github.io/Anisubber/}, 2026.
+\newblock Source: https://github.com/ookii-tsuki/Anisubber. Accessed:
+  2026-10-08.
+
+\bibitem[{OpenJS Foundation}(2026)]{electron}
+{OpenJS Foundation}.
+\newblock Electron: Build cross-platform desktop apps with {JavaScript},
+  {HTML}, and {CSS}.
+\newblock \url{https://www.electronjs.org/}, 2026.
+\newblock Source: https://github.com/electron/electron (MIT licence). Accessed:
+  2026-10-08.
+
+\bibitem[Palmer(2012)]{palmer2012effect}
+Joy~A. Palmer.
+\newblock The effect of furigana on lexical inferencing of unknown kanji words.
+\newblock {MA} thesis, Brigham Young University, Provo, UT, 2012.
+\newblock URL \url{https://scholarsarchive.byu.edu/etd/3235}.
+
+\bibitem[Peng et~al.(2023)Peng, Kalliamvakou, Cihon, and
+  Demirer]{peng2023impact}
+Sida Peng, Eirini Kalliamvakou, Peter Cihon, and Mert Demirer.
+\newblock The impact of {AI} on developer productivity: Evidence from {GitHub}
+  {Copilot}, 2023.
+
+\bibitem[{Pleco Software}(2026)]{cccanto}
+{Pleco Software}.
+\newblock {CC-Canto}: A {Cantonese} dictionary for everyone.
+\newblock \url{https://cantonese.org/about.html}, 2026.
+\newblock Cantonese-English dictionary designed to be used alongside CC-CEDICT;
+  CC BY-SA 3.0. Accessed: 2026-10-08.
+
+\bibitem[{saltyshiomix}(2026)]{nextron}
+{saltyshiomix}.
+\newblock Nextron: {Next.js} + {Electron}.
+\newblock \url{https://github.com/saltyshiomix/nextron}, 2026.
+\newblock GitHub repository (MIT licence). Accessed: 2026-10-08.
+
+\bibitem[Settles and Meeder(2016)]{settles2016trainable}
+Burr Settles and Brendan Meeder.
+\newblock A trainable spaced repetition model for language learning.
+\newblock In \emph{Proceedings of the 54th Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, pages 1848--1858,
+  Berlin, Germany, 2016. Association for Computational Linguistics.
+\newblock \doi{10.18653/v1/P16-1174}.
+
+\bibitem[Shport(2016)]{shport2016training}
+Irina~A. Shport.
+\newblock Training {English} listeners to identify pitch-accent patterns in
+  {Tokyo} {Japanese}.
+\newblock \emph{Studies in Second Language Acquisition}, 38\penalty0
+  (4):\penalty0 739--769, 2016.
+\newblock \doi{10.1017/S027226311500039X}.
+
+\bibitem[Snow(2004)]{snow2004cantonese}
+Don Snow.
+\newblock \emph{Cantonese as Written Language: The Growth of a Written
+  {Chinese} Vernacular}.
+\newblock Hong Kong University Press, Hong Kong, 2004.
+\newblock ISBN 9789622097094.
+\newblock \doi{10.2307/jj.40271861}.
+
+\bibitem[Snow(2008)]{snow2008cantonese}
+Don Snow.
+\newblock Cantonese as written standard?
+\newblock \emph{Journal of Asian Pacific Communication}, 18\penalty0
+  (2):\penalty0 190--208, 2008.
+\newblock \doi{10.1075/japc.18.2.05sno}.
+
+\bibitem[{takuyaa}(2026)]{kuromojijs}
+{takuyaa}.
+\newblock kuromoji.js: {JavaScript} implementation of {Japanese} morphological
+  analyzer.
+\newblock \url{https://github.com/takuyaa/kuromoji.js}, 2026.
+\newblock GitHub repository. Accessed: 2026-10-08.
+
+\bibitem[{tranxuanthang}(2026)]{lrclib}
+{tranxuanthang}.
+\newblock {LRCLIB}: Free synchronized lyrics service.
+\newblock \url{https://lrclib.net/}, 2026.
+\newblock Server source: https://github.com/tranxuanthang/lrclib. Accessed:
+  2026-10-08.
+
+\bibitem[Vanderplank(2016)]{vanderplank2016captioned}
+Robert Vanderplank.
+\newblock \emph{Captioned Media in Foreign Language Learning and Teaching:
+  Subtitles for the Deaf and Hard-of-Hearing as Tools for Language Learning}.
+\newblock Palgrave Macmillan, London, 2016.
+\newblock \doi{10.1057/978-1-137-50045-8}.
+
+\bibitem[Vu et~al.(2018)Vu, Nguyen, Nguyen, Dras, and Johnson]{vu2018vncorenlp}
+Thanh Vu, Dat~Quoc Nguyen, Dai~Quoc Nguyen, Mark Dras, and Mark Johnson.
+\newblock {VnCoreNLP}: A {Vietnamese} natural language processing toolkit.
+\newblock In \emph{Proceedings of the 2018 Conference of the North {American}
+  Chapter of the Association for Computational Linguistics: Demonstrations},
+  pages 56--60, New Orleans, Louisiana, 2018. Association for Computational
+  Linguistics.
+\newblock \doi{10.18653/v1/N18-5012}.
+
+\bibitem[Wang and Pellicer-S{\'a}nchez(2022)]{wang2022incidental}
+Andi Wang and Ana Pellicer-S{\'a}nchez.
+\newblock Incidental vocabulary learning from bilingual subtitled viewing: An
+  eye-tracking study.
+\newblock \emph{Language Learning}, 72\penalty0 (3):\penalty0 765--805, 2022.
+\newblock \doi{10.1111/lang.12495}.
+
+\bibitem[Watanabe et~al.(2026)Watanabe, Li, Kashiwa, Reid, Iida, and
+  Hassan]{watanabe2026agentic}
+Miku Watanabe, Hao Li, Yutaro Kashiwa, Brittany Reid, Hajimu Iida, and Ahmed~E.
+  Hassan.
+\newblock On the use of agentic coding: An empirical study of pull requests on
+  {GitHub}.
+\newblock \emph{ACM Transactions on Software Engineering and Methodology},
+  35\penalty0 (10):\penalty0 1--24, 2026.
+\newblock \doi{10.1145/3798166}.
+
+\bibitem[Webb and Rodgers(2009)]{webb2009vocabulary}
+Stuart Webb and Michael P.~H. Rodgers.
+\newblock Vocabulary demands of television programs.
+\newblock \emph{Language Learning}, 59\penalty0 (2):\penalty0 335--366, 2009.
+\newblock \doi{10.1111/j.1467-9922.2009.00509.x}.
+
+\bibitem[Xiang et~al.(2025)Xiang, Chersoni, Li, Li, Huang, Pan, and
+  Li]{xiang2025cantonese}
+Rong Xiang, Emmanuele Chersoni, Yixia Li, Jing Li, Chu-Ren Huang, Yushan Pan,
+  and Yushi Li.
+\newblock Cantonese natural language processing in the transformers era: A
+  survey and current challenges.
+\newblock \emph{Language Resources and Evaluation}, 59\penalty0 (2):\penalty0
+  1747--1773, 2025.
+\newblock \doi{10.1007/s10579-024-09744-w}.
+\newblock Published online 8 June 2024.
+
+\bibitem[Yau(2012)]{yau2012power}
+Wai-Ping Yau.
+\newblock Power, identity and subtitling in a diglossic society.
+\newblock \emph{Meta}, 57\penalty0 (3):\penalty0 564--573, 2012.
+\newblock \doi{10.7202/1017080ar}.
+
+\bibitem[{Yomitan contributors}(2026)]{yomitan}
+{Yomitan contributors}.
+\newblock Yomitan: Pop-up dictionary browser extension for language learning.
+\newblock \url{https://github.com/yomidevs/yomitan}, 2026.
+\newblock Successor to Yomichan; GPL-3.0. Documentation: https://yomitan.wiki/.
+  Accessed: 2026-10-08.
+
+\bibitem[Yudhiono(2026)]{miteiru}
+Hocky Yudhiono.
+\newblock Miteiru.
+\newblock \url{https://github.com/hockyy/miteiru}, 2026.
+\newblock Open-source Electron video player for learning Japanese, Mandarin,
+  Cantonese and Vietnamese; repository created 2022-12-05. Project site:
+  https://miteiru.hocky.id. Accessed: 2026-10-08.
+
+\bibitem[{zh-lx}(2026)]{pinyinpro}
+{zh-lx}.
+\newblock pinyin-pro.
+\newblock \url{https://github.com/zh-lx/pinyin-pro}, 2026.
+\newblock Chinese-to-pinyin conversion library (MIT licence). Accessed:
+  2026-10-08.
+
+\end{thebibliography}

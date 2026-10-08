@@ -1,0 +1,10 @@
+﻿# Build outputs (the PDF and the arXiv zip are attached to each GitHub release)
+*.aux
+*.log
+*.out
+*.blg
+/main.pdf
+/miteiru-paper.pdf
+/miteiru-arxiv-source.zip
+# Local submission checklist
+/SUBMITTING.md

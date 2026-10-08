@@ -1,0 +1,82 @@
+﻿% How one subtitle line becomes tokens in each language. Every token, reading
+% and gloss below is Miteiru 7.5.2's own output, taken from its analyzer server
+% (paper/data/analyzer/*.json). Compile with XeLaTeX (tectonic fig_tokens.tex).
+\documentclass[border=4pt]{standalone}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\usepackage{xcolor}
+\usepackage{tikz}
+\setmainfont{segoeui.ttf}[Path=../../../../../Windows/Fonts/, BoldFont=segoeuib.ttf]
+\setCJKmainfont{YuGothM.ttc}[Path=../../../../../Windows/Fonts/]
+\newCJKfontfamily\fja{YuGothM.ttc}[Path=../../../../../Windows/Fonts/]
+\newCJKfontfamily\fsc{msyh.ttc}[Path=../../../../../Windows/Fonts/]
+\newCJKfontfamily\ftc{msjh.ttc}[Path=../../../../../Windows/Fonts/]
+\definecolor{ink}{HTML}{1B1B1B}
+\definecolor{soft}{HTML}{6B6A66}
+\definecolor{tokb}{HTML}{2A78D6}
+\definecolor{bad}{HTML}{E34948}
+% \tok{reading}{surface}{gloss}
+\newcommand{\tok}[3]{\tikz[baseline=(b.base)]\node[draw=tokb!55, fill=tokb!6, rounded corners=1.5pt,
+  inner xsep=2.2pt, inner ysep=1.6pt, align=center, font=\color{ink}](b)
+  {{\scriptsize\color{tokb}#1\strut}\\[-2pt]{\large #2\strut}\\[-2pt]{\scriptsize\color{soft}#3\strut}};}
+\newcommand{\badtok}[3]{\tikz[baseline=(b.base)]\node[draw=bad!70, fill=bad!7, rounded corners=1.5pt,
+  inner xsep=2.2pt, inner ysep=1.6pt, align=center, font=\color{ink}](b)
+  {{\scriptsize\color{bad}#1\strut}\\[-2pt]{\large #2\strut}\\[-2pt]{\scriptsize\color{bad}#3\strut}};}
+% Segments inside one token: \grp{\sg{reading}{surface}\sg{...}{...}}{note}
+\newcommand{\sg}[2]{\begin{tabular}[b]{@{}c@{}}{\scriptsize\color{tokb}#1\strut}\\[-2pt]{\large #2\strut}\end{tabular}}
+\newcommand{\sgbad}[2]{\begin{tabular}[b]{@{}c@{}}{\scriptsize\color{bad}#1\strut}\\[-2pt]{\large #2\strut}\end{tabular}}
+\newcommand{\grp}[2]{\tikz[baseline=(b.base)]\node[draw=tokb!55, dashed, rounded corners=1.5pt,
+  inner xsep=2.2pt, inner ysep=1.6pt, align=center, font=\color{ink}](b)
+  {#1\\[-2pt]{\scriptsize\color{soft}#2\strut}};}
+\newcommand{\grpbad}[2]{\tikz[baseline=(b.base)]\node[draw=bad!70, dashed, rounded corners=1.5pt,
+  inner xsep=2.2pt, inner ysep=1.6pt, align=center, font=\color{ink}](b)
+  {#1\\[-2pt]{\scriptsize\color{bad}#2\strut}};}
+\newcommand{\lang}[2]{\par\vspace{7pt}\noindent{\bfseries\color{ink}#1}\hspace{6pt}{\small\color{soft}#2}\par\vspace{3pt}}
+\newcommand{\gap}{\hspace{1.5pt}}
+\begin{document}
+\begin{minipage}{17.2cm}
+\raggedright
+
+\lang{Japanese}{Kuromoji, then okurigana alignment and verb merging; the lemma (below) is what a click looks up}
+{\fja
+\tok{}{ホーム}{}\gap\tok{}{の}{}\gap\tok{かべ}{壁}{wall}\gap\tok{}{の}{}\gap\tok{}{デザイン}{design}\gap\tok{}{が}{}\gap
+\tok{ほんだな}{本棚}{bookshelves}\gap\tok{}{の}{}\gap\tok{}{よう}{}\gap\tok{}{に}{}\gap\tok{}{なっています}{→ なる}
+}
+
+\par\vspace{5pt}{\small\color{soft}Ruby segments inside one token (dashed boxes); red: readings taken from Kuromoji's pronunciation field}\par\vspace{2pt}
+{\fja
+\grp{\sg{とりあつか}{取り扱}\sg{}{い}}{取り扱い}\hspace{6pt}
+\grp{\sg{}{お}\sg{かあ}{母}\sg{}{さん}}{お母さん}\hspace{6pt}
+\grp{\sg{た}{食}\sg{}{べられなかった}}{merged; lemma 食べる}\hspace{6pt}
+\grpbad{\sgbad{おう}{大}\sg{}{きい}}{expected おお}\hspace{6pt}
+\grpbad{\sgbad{おうさか}{大阪}}{expected おおさか}
+}
+
+\lang{Mandarin}{Jieba, Mandarin dictionary; pinyin per word (pinyin-pro); Traditional converted to Simplified (OpenCC)}
+{\fsc
+\tok{nà zhǒng}{那种}{}\gap\tok{běi jīng}{北京}{}\gap\tok{yuán zhī yuán wèi}{原汁原味}{original}\gap\tok{de}{的}{of}\gap
+\tok{hú tòng}{胡同}{lane}\gap\tok{shēng huó}{生活}{to live}
+}
+
+\lang{Cantonese}{Jieba, separate Cantonese dictionary; Jyutping per word (to-jyutping); characters kept as written}
+{\ftc
+\tok{faan6}{飯}{meal}\gap\tok{m4 hai6}{唔係}{to be not}\gap\tok{jat1}{一}{one}\gap\tok{wun2}{碗}{bowl}\gap\tok{wun2}{碗}{bowl}\hspace{6pt}
+\tok{hai6}{係}{is}\gap\tok{jat1}{一}{one}\gap\tok{go3}{個}{}\gap\tok{faan6}{飯}{meal}\gap\tok{kau4}{球}{}\hspace{6pt}
+\tok{jat1}{一}{one}\gap\tok{go3}{個}{}\gap\tok{bo1}{波}{a ball}\gap\tok{gam2 joeng2}{咁樣}{}\gap\tok{gaa3}{㗎}{}
+}
+
+\lang{Vietnamese}{backward maximum matching over syllables (VNEDict); the gloss takes the reading's place}
+\tok{}{Mình}{}\gap\tok{}{là}{that}\gap\tok{}{người}{man}\gap\badtok{}{Nga,}{no match}\gap\tok{}{và}{and}\gap
+\tok{}{mình}{I}\gap\tok{}{sống}{life}\gap\tok{}{ở Việt Nam}{in Vietnam}\gap\tok{}{hơn}{-er}\gap
+\tok{}{bảy}{seven}\gap\tok{}{năm}{five}\gap\badtok{}{rồi.}{no match}
+
+\par\vspace{5pt}{\small\color{soft}Without the final full stop, matching from the right takes the longest entry:}\hspace{4pt}
+\tok{}{bảy}{seven}\gap\badtok{}{năm rồi}{last year}\hspace{4pt}{\small\color{soft}(here: ``seven years now'')}
+
+\end{minipage}
+\end{document}
+
+
+
+
+

@@ -1,0 +1,366 @@
+{
+ "ok": true,
+ "active": {
+  "tokenizerMode": "cantonese",
+  "languageCode": "yue",
+  "pluginId": "cantonese-jieba",
+  "name": "Jieba - Cantonese"
+ },
+ "results": [
+  [
+   {
+    "origin": "飯",
+    "jyutping": "faan6",
+    "separation": [
+     {
+      "main": "飯",
+      "jyutping": "faan6"
+     }
+    ]
+   },
+   {
+    "origin": "唔係",
+    "jyutping": "m4 hai6",
+    "separation": [
+     {
+      "main": "唔",
+      "jyutping": "m4"
+     },
+     {
+      "main": "係",
+      "jyutping": "hai6"
+     }
+    ]
+   },
+   {
+    "origin": "一",
+    "jyutping": "jat1",
+    "separation": [
+     {
+      "main": "一",
+      "jyutping": "jat1"
+     }
+    ]
+   },
+   {
+    "origin": "碗",
+    "jyutping": "wun2",
+    "separation": [
+     {
+      "main": "碗",
+      "jyutping": "wun2"
+     }
+    ]
+   },
+   {
+    "origin": "碗",
+    "jyutping": "wun2",
+    "separation": [
+     {
+      "main": "碗",
+      "jyutping": "wun2"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "係",
+    "jyutping": "hai6",
+    "separation": [
+     {
+      "main": "係",
+      "jyutping": "hai6"
+     }
+    ]
+   },
+   {
+    "origin": "一",
+    "jyutping": "jat1",
+    "separation": [
+     {
+      "main": "一",
+      "jyutping": "jat1"
+     }
+    ]
+   },
+   {
+    "origin": "個",
+    "jyutping": "go3",
+    "separation": [
+     {
+      "main": "個",
+      "jyutping": "go3"
+     }
+    ]
+   },
+   {
+    "origin": "飯",
+    "jyutping": "faan6",
+    "separation": [
+     {
+      "main": "飯",
+      "jyutping": "faan6"
+     }
+    ]
+   },
+   {
+    "origin": "球",
+    "jyutping": "kau4",
+    "separation": [
+     {
+      "main": "球",
+      "jyutping": "kau4"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "一",
+    "jyutping": "jat1",
+    "separation": [
+     {
+      "main": "一",
+      "jyutping": "jat1"
+     }
+    ]
+   },
+   {
+    "origin": "個",
+    "jyutping": "go3",
+    "separation": [
+     {
+      "main": "個",
+      "jyutping": "go3"
+     }
+    ]
+   },
+   {
+    "origin": "波",
+    "jyutping": "bo1",
+    "separation": [
+     {
+      "main": "波",
+      "jyutping": "bo1"
+     }
+    ]
+   },
+   {
+    "origin": "咁樣",
+    "jyutping": "gam2 joeng2",
+    "separation": [
+     {
+      "main": "咁",
+      "jyutping": "gam2"
+     },
+     {
+      "main": "樣",
+      "jyutping": "joeng2"
+     }
+    ]
+   },
+   {
+    "origin": "㗎",
+    "jyutping": "gaa3",
+    "separation": [
+     {
+      "main": "㗎",
+      "jyutping": "gaa3"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "我哋",
+    "jyutping": "ngo5 dei6",
+    "separation": [
+     {
+      "main": "我",
+      "jyutping": "ngo5"
+     },
+     {
+      "main": "哋",
+      "jyutping": "dei6"
+     }
+    ]
+   },
+   {
+    "origin": "今日",
+    "jyutping": "gam1 jat6",
+    "separation": [
+     {
+      "main": "今",
+      "jyutping": "gam1"
+     },
+     {
+      "main": "日",
+      "jyutping": "jat6"
+     }
+    ]
+   },
+   {
+    "origin": "去",
+    "jyutping": "heoi3",
+    "separation": [
+     {
+      "main": "去",
+      "jyutping": "heoi3"
+     }
+    ]
+   },
+   {
+    "origin": "食",
+    "jyutping": "sik6",
+    "separation": [
+     {
+      "main": "食",
+      "jyutping": "sik6"
+     }
+    ]
+   },
+   {
+    "origin": "燒鵝",
+    "jyutping": "siu1 ngo2",
+    "separation": [
+     {
+      "main": "燒",
+      "jyutping": "siu1"
+     },
+     {
+      "main": "鵝",
+      "jyutping": "ngo2"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "佢",
+    "jyutping": "keoi5",
+    "separation": [
+     {
+      "main": "佢",
+      "jyutping": "keoi5"
+     }
+    ]
+   },
+   {
+    "origin": "冇",
+    "jyutping": "mou5",
+    "separation": [
+     {
+      "main": "冇",
+      "jyutping": "mou5"
+     }
+    ]
+   },
+   {
+    "origin": "嚟",
+    "jyutping": "lai4",
+    "separation": [
+     {
+      "main": "嚟",
+      "jyutping": "lai4"
+     }
+    ]
+   },
+   {
+    "origin": "睇戲",
+    "jyutping": "tai2 hei3",
+    "separation": [
+     {
+      "main": "睇",
+      "jyutping": "tai2"
+     },
+     {
+      "main": "戲",
+      "jyutping": "hei3"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "我們",
+    "jyutping": "ngo5 mun4",
+    "separation": [
+     {
+      "main": "我",
+      "jyutping": "ngo5"
+     },
+     {
+      "main": "們",
+      "jyutping": "mun4"
+     }
+    ]
+   },
+   {
+    "origin": "今天",
+    "jyutping": "gam1 tin1",
+    "separation": [
+     {
+      "main": "今",
+      "jyutping": "gam1"
+     },
+     {
+      "main": "天",
+      "jyutping": "tin1"
+     }
+    ]
+   },
+   {
+    "origin": "去",
+    "jyutping": "heoi3",
+    "separation": [
+     {
+      "main": "去",
+      "jyutping": "heoi3"
+     }
+    ]
+   },
+   {
+    "origin": "吃",
+    "jyutping": "hek3",
+    "separation": [
+     {
+      "main": "吃",
+      "jyutping": "hek3"
+     }
+    ]
+   },
+   {
+    "origin": "燒鵝",
+    "jyutping": "siu1 ngo2",
+    "separation": [
+     {
+      "main": "燒",
+      "jyutping": "siu1"
+     },
+     {
+      "main": "鵝",
+      "jyutping": "ngo2"
+     }
+    ]
+   }
+  ]
+ ],
+ "elapsed_ms": 23.6
+}

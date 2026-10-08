@@ -1,0 +1,352 @@
+{
+ "ok": true,
+ "active": {
+  "tokenizerMode": "jieba",
+  "languageCode": "zh-CN",
+  "pluginId": "mandarin-jieba",
+  "name": "Jieba - Chinese"
+ },
+ "results": [
+  [
+   {
+    "origin": "我们",
+    "pinyin": "wǒ men",
+    "separation": [
+     {
+      "main": "我",
+      "pinyin": "wǒ"
+     },
+     {
+      "main": "们",
+      "pinyin": "men"
+     }
+    ]
+   },
+   {
+    "origin": "今天",
+    "pinyin": "jīn tiān",
+    "separation": [
+     {
+      "main": "今",
+      "pinyin": "jīn"
+     },
+     {
+      "main": "天",
+      "pinyin": "tiān"
+     }
+    ]
+   },
+   {
+    "origin": "去",
+    "pinyin": "qù",
+    "separation": [
+     {
+      "main": "去",
+      "pinyin": "qù"
+     }
+    ]
+   },
+   {
+    "origin": "吃",
+    "pinyin": "chī",
+    "separation": [
+     {
+      "main": "吃",
+      "pinyin": "chī"
+     }
+    ]
+   },
+   {
+    "origin": "烧鹅",
+    "pinyin": "shāo é",
+    "separation": [
+     {
+      "main": "烧",
+      "pinyin": "shāo"
+     },
+     {
+      "main": "鹅",
+      "pinyin": "é"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "他",
+    "pinyin": "tā",
+    "separation": [
+     {
+      "main": "他",
+      "pinyin": "tā"
+     }
+    ]
+   },
+   {
+    "origin": "没有",
+    "pinyin": "méi yǒu",
+    "separation": [
+     {
+      "main": "没",
+      "pinyin": "méi"
+     },
+     {
+      "main": "有",
+      "pinyin": "yǒu"
+     }
+    ]
+   },
+   {
+    "origin": "来看",
+    "pinyin": "lái kàn",
+    "separation": [
+     {
+      "main": "来",
+      "pinyin": "lái"
+     },
+     {
+      "main": "看",
+      "pinyin": "kàn"
+     }
+    ]
+   },
+   {
+    "origin": "电影",
+    "pinyin": "diàn yǐng",
+    "separation": [
+     {
+      "main": "电",
+      "pinyin": "diàn"
+     },
+     {
+      "main": "影",
+      "pinyin": "yǐng"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "在",
+    "pinyin": "zài",
+    "separation": [
+     {
+      "main": "在",
+      "pinyin": "zài"
+     }
+    ]
+   },
+   {
+    "origin": "看",
+    "pinyin": "kàn",
+    "separation": [
+     {
+      "main": "看",
+      "pinyin": "kàn"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "的",
+    "pinyin": "de",
+    "separation": [
+     {
+      "main": "的",
+      "pinyin": "de"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "pinyin": "",
+    "separation": [
+     {
+      "main": " ",
+      "pinyin": ""
+     }
+    ]
+   },
+   {
+    "origin": "了",
+    "pinyin": "liǎo",
+    "separation": [
+     {
+      "main": "了",
+      "pinyin": "liǎo"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "pinyin": "",
+    "separation": [
+     {
+      "main": " ",
+      "pinyin": ""
+     }
+    ]
+   },
+   {
+    "origin": "他",
+    "pinyin": "tā",
+    "separation": [
+     {
+      "main": "他",
+      "pinyin": "tā"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "pinyin": "",
+    "separation": [
+     {
+      "main": " ",
+      "pinyin": ""
+     }
+    ]
+   },
+   {
+    "origin": "在",
+    "pinyin": "zài",
+    "separation": [
+     {
+      "main": "在",
+      "pinyin": "zài"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "pinyin": "",
+    "separation": [
+     {
+      "main": " ",
+      "pinyin": ""
+     }
+    ]
+   },
+   {
+    "origin": "没有",
+    "pinyin": "méi yǒu",
+    "separation": [
+     {
+      "main": "没",
+      "pinyin": "méi"
+     },
+     {
+      "main": "有",
+      "pinyin": "yǒu"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "pinyin": "",
+    "separation": [
+     {
+      "main": " ",
+      "pinyin": ""
+     }
+    ]
+   },
+   {
+    "origin": "些",
+    "pinyin": "xiē",
+    "separation": [
+     {
+      "main": "些",
+      "pinyin": "xiē"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "pinyin": "",
+    "separation": [
+     {
+      "main": " ",
+      "pinyin": ""
+     }
+    ]
+   },
+   {
+    "origin": "不",
+    "pinyin": "bù",
+    "separation": [
+     {
+      "main": "不",
+      "pinyin": "bù"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "pinyin": "",
+    "separation": [
+     {
+      "main": " ",
+      "pinyin": ""
+     }
+    ]
+   },
+   {
+    "origin": "是",
+    "pinyin": "shì",
+    "separation": [
+     {
+      "main": "是",
+      "pinyin": "shì"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "pinyin": "",
+    "separation": [
+     {
+      "main": " ",
+      "pinyin": ""
+     }
+    ]
+   },
+   {
+    "origin": "东西",
+    "pinyin": "dōng xī",
+    "separation": [
+     {
+      "main": "东",
+      "pinyin": "dōng"
+     },
+     {
+      "main": "西",
+      "pinyin": "xī"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "pinyin": "",
+    "separation": [
+     {
+      "main": " ",
+      "pinyin": ""
+     }
+    ]
+   },
+   {
+    "origin": "看",
+    "pinyin": "kàn",
+    "separation": [
+     {
+      "main": "看",
+      "pinyin": "kàn"
+     }
+    ]
+   }
+  ]
+ ],
+ "elapsed_ms": 22.1
+}

@@ -1,0 +1,56 @@
+﻿% Spoken Cantonese written down vs Standard Written Chinese (SWC). Jyutping and
+% pinyin are Miteiru 7.5.2's output (paper/data/analyzer/yue*.json, zh*.json),
+% except the Mandarin particle readings of 了 and 的 (see the caption).
+% Compile with XeLaTeX (tectonic fig_cantonese.tex).
+\documentclass[border=4pt]{standalone}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\usepackage{xcolor}
+\usepackage{array}
+\usepackage{booktabs}
+\setmainfont{segoeui.ttf}[Path=../../../../../Windows/Fonts/, BoldFont=segoeuib.ttf]
+\setCJKmainfont{msjh.ttc}[Path=../../../../../Windows/Fonts/]
+\definecolor{ink}{HTML}{1B1B1B}
+\definecolor{soft}{HTML}{6B6A66}
+\definecolor{yue}{HTML}{EB6834}
+\definecolor{swc}{HTML}{2A78D6}
+\newcommand{\hz}[1]{{\large #1}}
+\newcommand{\rd}[1]{{\small\color{soft}#1}}
+\renewcommand{\arraystretch}{1.25}
+\begin{document}
+\begin{minipage}{17.4cm}\color{ink}
+\begin{tabular}{@{}>{\raggedright}p{2.9cm} >{\raggedright}p{4.5cm} >{\raggedright}p{4.6cm} >{\raggedright\arraybackslash}p{4.6cm}@{}}
+\toprule
+\textbf{Meaning} & \textbf{\color{yue}Spoken Cantonese, written} & \textbf{\color{swc}Standard Written Chinese}, \newline read in Cantonese & \textbf{SWC read in Mandarin} \\
+\midrule
+We're going to eat roast goose today &
+\hz{我哋今日去食燒鵝}\newline\rd{ngo5 dei6 gam1 jat6 heoi3 sik6 siu1 ngo2} &
+\hz{我們今天去吃燒鵝}\newline\rd{ngo5 mun4 gam1 tin1 heoi3 hek3 siu1 ngo2} &
+\hz{\strut}\newline\rd{wǒ men jīn tiān qù chī shāo é} \\
+He didn't come to see the film &
+\hz{佢冇嚟睇戲}\newline\rd{keoi5 mou5 lai4 tai2 hei3} &
+\hz{他沒有來看電影}\newline\rd{taa1 mut6 jau5 loi4 hon3 din6 jing2} &
+\hz{\strut}\newline\rd{tā méi yǒu lái kàn diàn yǐng} \\
+watching \newline\rd{(this app's name)} &
+\hz{睇緊}\newline\rd{tai2 gan2} &
+\hz{在看}\newline\rd{zoi6 hon3} &
+\hz{\strut}\newline\rd{zài kàn} \\
+\bottomrule
+\end{tabular}
+
+\vspace{10pt}
+\begin{tabular}{@{}l *{10}{c}@{}}
+\textbf{\color{yue}Cantonese} &
+\hz{嘅} & \hz{咗} & \hz{佢} & \hz{喺} & \hz{冇} & \hz{啲} & \hz{唔} & \hz{係} & \hz{嘢} & \hz{睇} \\[-3pt]
+ & \rd{ge3} & \rd{zo2} & \rd{keoi5} & \rd{hai2} & \rd{mou5} & \rd{di1} & \rd{m4} & \rd{hai6} & \rd{je5} & \rd{tai2} \\
+\textbf{\color{swc}SWC} &
+\hz{的} & \hz{了} & \hz{他} & \hz{在} & \hz{沒有} & \hz{些} & \hz{不} & \hz{是} & \hz{東西} & \hz{看} \\[-3pt]
+\quad\rd{in Mandarin} & \rd{de} & \rd{le} & \rd{tā} & \rd{zài} & \rd{méiyǒu} & \rd{xiē} & \rd{bù} & \rd{shì} & \rd{dōngxi} & \rd{kàn} \\
+\quad\rd{in Cantonese} & \rd{dik1} & \rd{liu5} & \rd{taa1} & \rd{zoi6} & \rd{mut6 jau5} & \rd{se1} & \rd{bat1} & \rd{si6} & \rd{dung1 sai1} & \rd{hon3} \\[2pt]
+ & \rd{poss.} & \rd{perf.} & \rd{he/she} & \rd{at} & \rd{not have} & \rd{some} & \rd{not} & \rd{is} & \rd{thing} & \rd{look} \\
+\end{tabular}
+\end{minipage}
+\end{document}
+
+
+

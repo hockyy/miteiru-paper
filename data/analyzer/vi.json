@@ -1,0 +1,231 @@
+{
+ "ok": true,
+ "active": {
+  "tokenizerMode": "vietnamese",
+  "languageCode": "vi",
+  "pluginId": "vietnamese",
+  "name": "Vietnamese"
+ },
+ "results": [
+  [
+   {
+    "origin": "Mình",
+    "meaning": "",
+    "separation": [
+     {
+      "main": "Mình"
+     }
+    ]
+   },
+   {
+    "origin": "là",
+    "meaning": "that; to be",
+    "separation": [
+     {
+      "main": "là"
+     }
+    ]
+   },
+   {
+    "origin": "người",
+    "meaning": "man, person, people, individual, body",
+    "separation": [
+     {
+      "main": "người"
+     }
+    ]
+   },
+   {
+    "origin": "Nga,",
+    "meaning": "",
+    "separation": [
+     {
+      "main": "Nga,"
+     }
+    ]
+   },
+   {
+    "origin": "và",
+    "meaning": "and",
+    "separation": [
+     {
+      "main": "và"
+     }
+    ]
+   },
+   {
+    "origin": "mình",
+    "meaning": "body, oneself, I, we (inclusive)",
+    "separation": [
+     {
+      "main": "mình"
+     }
+    ]
+   },
+   {
+    "origin": "sống",
+    "meaning": "to live, exist; life",
+    "separation": [
+     {
+      "main": "sống"
+     }
+    ]
+   },
+   {
+    "origin": "ở Việt Nam",
+    "meaning": "in Vietnam",
+    "separation": [
+     {
+      "main": "ở"
+     },
+     {
+      "main": "Việt"
+     },
+     {
+      "main": "Nam"
+     }
+    ]
+   },
+   {
+    "origin": "hơn",
+    "meaning": "additional, more than, -er",
+    "separation": [
+     {
+      "main": "hơn"
+     }
+    ]
+   },
+   {
+    "origin": "bảy",
+    "meaning": "(1) see bẩy; (2) seven",
+    "separation": [
+     {
+      "main": "bảy"
+     }
+    ]
+   },
+   {
+    "origin": "năm",
+    "meaning": "(1) five; (2) year",
+    "separation": [
+     {
+      "main": "năm"
+     }
+    ]
+   },
+   {
+    "origin": "rồi.",
+    "meaning": "",
+    "separation": [
+     {
+      "main": "rồi."
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "mình",
+    "meaning": "body, oneself, I, we (inclusive)",
+    "separation": [
+     {
+      "main": "mình"
+     }
+    ]
+   },
+   {
+    "origin": "sống",
+    "meaning": "to live, exist; life",
+    "separation": [
+     {
+      "main": "sống"
+     }
+    ]
+   },
+   {
+    "origin": "ở Việt Nam",
+    "meaning": "in Vietnam",
+    "separation": [
+     {
+      "main": "ở"
+     },
+     {
+      "main": "Việt"
+     },
+     {
+      "main": "Nam"
+     }
+    ]
+   },
+   {
+    "origin": "hơn",
+    "meaning": "additional, more than, -er",
+    "separation": [
+     {
+      "main": "hơn"
+     }
+    ]
+   },
+   {
+    "origin": "bảy",
+    "meaning": "(1) see bẩy; (2) seven",
+    "separation": [
+     {
+      "main": "bảy"
+     }
+    ]
+   },
+   {
+    "origin": "năm rồi",
+    "meaning": "last year",
+    "separation": [
+     {
+      "main": "năm"
+     },
+     {
+      "main": "rồi"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "anh ấy",
+    "meaning": "he",
+    "separation": [
+     {
+      "main": "anh"
+     },
+     {
+      "main": "ấy"
+     }
+    ]
+   },
+   {
+    "origin": "nói đến",
+    "meaning": "to talk about",
+    "separation": [
+     {
+      "main": "nói"
+     },
+     {
+      "main": "đến"
+     }
+    ]
+   },
+   {
+    "origin": "chuyện đó",
+    "meaning": "that (thing, issue)",
+    "separation": [
+     {
+      "main": "chuyện"
+     },
+     {
+      "main": "đó"
+     }
+    ]
+   }
+  ]
+ ],
+ "elapsed_ms": 21.9
+}

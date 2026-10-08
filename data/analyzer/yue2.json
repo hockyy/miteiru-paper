@@ -1,0 +1,486 @@
+{
+ "ok": true,
+ "active": {
+  "tokenizerMode": "cantonese",
+  "languageCode": "yue",
+  "pluginId": "cantonese-jieba",
+  "name": "Jieba - Cantonese"
+ },
+ "results": [
+  [
+   {
+    "origin": "他",
+    "jyutping": "taa1",
+    "separation": [
+     {
+      "main": "他",
+      "jyutping": "taa1"
+     }
+    ]
+   },
+   {
+    "origin": "沒有",
+    "jyutping": "mut6 jau5",
+    "separation": [
+     {
+      "main": "沒",
+      "jyutping": "mut6"
+     },
+     {
+      "main": "有",
+      "jyutping": "jau5"
+     }
+    ]
+   },
+   {
+    "origin": "來",
+    "jyutping": "loi4",
+    "separation": [
+     {
+      "main": "來",
+      "jyutping": "loi4"
+     }
+    ]
+   },
+   {
+    "origin": "看",
+    "jyutping": "hon3",
+    "separation": [
+     {
+      "main": "看",
+      "jyutping": "hon3"
+     }
+    ]
+   },
+   {
+    "origin": "電影",
+    "jyutping": "din6 jing2",
+    "separation": [
+     {
+      "main": "電",
+      "jyutping": "din6"
+     },
+     {
+      "main": "影",
+      "jyutping": "jing2"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "睇",
+    "jyutping": "tai2",
+    "separation": [
+     {
+      "main": "睇",
+      "jyutping": "tai2"
+     }
+    ]
+   },
+   {
+    "origin": "緊",
+    "jyutping": "gan2",
+    "separation": [
+     {
+      "main": "緊",
+      "jyutping": "gan2"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "嘅",
+    "jyutping": "ge3",
+    "separation": [
+     {
+      "main": "嘅",
+      "jyutping": "ge3"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "咗",
+    "jyutping": "zo2",
+    "separation": [
+     {
+      "main": "咗",
+      "jyutping": "zo2"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "佢",
+    "jyutping": "keoi5",
+    "separation": [
+     {
+      "main": "佢",
+      "jyutping": "keoi5"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "喺",
+    "jyutping": "hai2",
+    "separation": [
+     {
+      "main": "喺",
+      "jyutping": "hai2"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "冇",
+    "jyutping": "mou5",
+    "separation": [
+     {
+      "main": "冇",
+      "jyutping": "mou5"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "啲",
+    "jyutping": "di1",
+    "separation": [
+     {
+      "main": "啲",
+      "jyutping": "di1"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "唔",
+    "jyutping": "m4",
+    "separation": [
+     {
+      "main": "唔",
+      "jyutping": "m4"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "係",
+    "jyutping": "hai6",
+    "separation": [
+     {
+      "main": "係",
+      "jyutping": "hai6"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "嘢",
+    "jyutping": "je5",
+    "separation": [
+     {
+      "main": "嘢",
+      "jyutping": "je5"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "睇",
+    "jyutping": "tai2",
+    "separation": [
+     {
+      "main": "睇",
+      "jyutping": "tai2"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "的",
+    "jyutping": "dik1",
+    "separation": [
+     {
+      "main": "的",
+      "jyutping": "dik1"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "了",
+    "jyutping": "liu5",
+    "separation": [
+     {
+      "main": "了",
+      "jyutping": "liu5"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "他",
+    "jyutping": "taa1",
+    "separation": [
+     {
+      "main": "他",
+      "jyutping": "taa1"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "在",
+    "jyutping": "zoi6",
+    "separation": [
+     {
+      "main": "在",
+      "jyutping": "zoi6"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "沒有",
+    "jyutping": "mut6 jau5",
+    "separation": [
+     {
+      "main": "沒",
+      "jyutping": "mut6"
+     },
+     {
+      "main": "有",
+      "jyutping": "jau5"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "些",
+    "jyutping": "se1",
+    "separation": [
+     {
+      "main": "些",
+      "jyutping": "se1"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "不",
+    "jyutping": "bat1",
+    "separation": [
+     {
+      "main": "不",
+      "jyutping": "bat1"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "是",
+    "jyutping": "si6",
+    "separation": [
+     {
+      "main": "是",
+      "jyutping": "si6"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "東西",
+    "jyutping": "dung1 sai1",
+    "separation": [
+     {
+      "main": "東",
+      "jyutping": "dung1"
+     },
+     {
+      "main": "西",
+      "jyutping": "sai1"
+     }
+    ]
+   },
+   {
+    "origin": " ",
+    "jyutping": "",
+    "separation": [
+     {
+      "main": " ",
+      "jyutping": null
+     }
+    ]
+   },
+   {
+    "origin": "看",
+    "jyutping": "hon3",
+    "separation": [
+     {
+      "main": "看",
+      "jyutping": "hon3"
+     }
+    ]
+   }
+  ]
+ ],
+ "elapsed_ms": 22.7
+}

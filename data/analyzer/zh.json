@@ -1,0 +1,166 @@
+{
+ "ok": true,
+ "active": {
+  "tokenizerMode": "jieba",
+  "languageCode": "zh-CN",
+  "pluginId": "mandarin-jieba",
+  "name": "Jieba - Chinese"
+ },
+ "results": [
+  [
+   {
+    "origin": "那种",
+    "pinyin": "nà zhǒng",
+    "separation": [
+     {
+      "main": "那",
+      "pinyin": "nà"
+     },
+     {
+      "main": "种",
+      "pinyin": "zhǒng"
+     }
+    ]
+   },
+   {
+    "origin": "北京",
+    "pinyin": "běi jīng",
+    "separation": [
+     {
+      "main": "北",
+      "pinyin": "běi"
+     },
+     {
+      "main": "京",
+      "pinyin": "jīng"
+     }
+    ]
+   },
+   {
+    "origin": "原汁原味",
+    "pinyin": "yuán zhī yuán wèi",
+    "separation": [
+     {
+      "main": "原",
+      "pinyin": "yuán"
+     },
+     {
+      "main": "汁",
+      "pinyin": "zhī"
+     },
+     {
+      "main": "原",
+      "pinyin": "yuán"
+     },
+     {
+      "main": "味",
+      "pinyin": "wèi"
+     }
+    ]
+   },
+   {
+    "origin": "的",
+    "pinyin": "de",
+    "separation": [
+     {
+      "main": "的",
+      "pinyin": "de"
+     }
+    ]
+   },
+   {
+    "origin": "胡同",
+    "pinyin": "hú tòng",
+    "separation": [
+     {
+      "main": "胡",
+      "pinyin": "hú"
+     },
+     {
+      "main": "同",
+      "pinyin": "tòng"
+     }
+    ]
+   },
+   {
+    "origin": "生活",
+    "pinyin": "shēng huó",
+    "separation": [
+     {
+      "main": "生",
+      "pinyin": "shēng"
+     },
+     {
+      "main": "活",
+      "pinyin": "huó"
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "我们",
+    "pinyin": "wǒ men",
+    "separation": [
+     {
+      "main": "我",
+      "pinyin": "wǒ"
+     },
+     {
+      "main": "们",
+      "pinyin": "men"
+     }
+    ]
+   },
+   {
+    "origin": "今天",
+    "pinyin": "jīn tiān",
+    "separation": [
+     {
+      "main": "今",
+      "pinyin": "jīn"
+     },
+     {
+      "main": "天",
+      "pinyin": "tiān"
+     }
+    ]
+   },
+   {
+    "origin": "去",
+    "pinyin": "qù",
+    "separation": [
+     {
+      "main": "去",
+      "pinyin": "qù"
+     }
+    ]
+   },
+   {
+    "origin": "吃",
+    "pinyin": "chī",
+    "separation": [
+     {
+      "main": "吃",
+      "pinyin": "chī"
+     }
+    ]
+   },
+   {
+    "origin": "烤鸭",
+    "pinyin": "kǎo yā",
+    "separation": [
+     {
+      "main": "烤",
+      "pinyin": "kǎo"
+     },
+     {
+      "main": "鸭",
+      "pinyin": "yā"
+     }
+    ]
+   }
+  ]
+ ],
+ "elapsed_ms": 22.1
+}

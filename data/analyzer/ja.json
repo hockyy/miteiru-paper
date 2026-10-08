@@ -1,0 +1,580 @@
+{
+ "ok": true,
+ "active": {
+  "tokenizerMode": "kuromoji",
+  "languageCode": "ja",
+  "pluginId": "japanese-kuromoji",
+  "name": "Kuromoji - Japanese"
+ },
+ "results": [
+  [
+   {
+    "origin": "ホーム",
+    "hiragana": "ほうむ",
+    "basicForm": "ホーム",
+    "pos": "名詞-一般",
+    "separation": [
+     {
+      "main": "ホーム",
+      "hiragana": "ほうむ",
+      "romaji": "houmu",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "の",
+    "hiragana": "の",
+    "basicForm": "の",
+    "pos": "助詞-連体化",
+    "separation": [
+     {
+      "main": "の",
+      "hiragana": "の",
+      "romaji": "no",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "壁",
+    "hiragana": "かべ",
+    "basicForm": "壁",
+    "pos": "名詞-一般",
+    "separation": [
+     {
+      "main": "壁",
+      "hiragana": "かべ",
+      "romaji": "kabe",
+      "isKana": false,
+      "isKanji": true,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "の",
+    "hiragana": "の",
+    "basicForm": "の",
+    "pos": "助詞-連体化",
+    "separation": [
+     {
+      "main": "の",
+      "hiragana": "の",
+      "romaji": "no",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "デザイン",
+    "hiragana": "でざいん",
+    "basicForm": "デザイン",
+    "pos": "名詞-サ変接続",
+    "separation": [
+     {
+      "main": "デザイン",
+      "hiragana": "でざいん",
+      "romaji": "dezain",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "が",
+    "hiragana": "が",
+    "basicForm": "が",
+    "pos": "助詞-格助詞-一般",
+    "separation": [
+     {
+      "main": "が",
+      "hiragana": "が",
+      "romaji": "ga",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "本棚",
+    "hiragana": "ほんだな",
+    "basicForm": "本棚",
+    "pos": "名詞-一般",
+    "separation": [
+     {
+      "main": "本棚",
+      "hiragana": "ほんだな",
+      "romaji": "hondana",
+      "isKana": false,
+      "isKanji": true,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "の",
+    "hiragana": "の",
+    "basicForm": "の",
+    "pos": "助詞-連体化",
+    "separation": [
+     {
+      "main": "の",
+      "hiragana": "の",
+      "romaji": "no",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "よう",
+    "hiragana": "よう",
+    "basicForm": "よう",
+    "pos": "名詞-非自立-助動詞語幹",
+    "separation": [
+     {
+      "main": "よう",
+      "hiragana": "よう",
+      "romaji": "you",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "に",
+    "hiragana": "に",
+    "basicForm": "に",
+    "pos": "助詞-格助詞-一般",
+    "separation": [
+     {
+      "main": "に",
+      "hiragana": "に",
+      "romaji": "ni",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "なっています",
+    "hiragana": "なっています",
+    "basicForm": "なる",
+    "pos": "動詞-自立",
+    "separation": [
+     {
+      "main": "なっ",
+      "hiragana": "なっ",
+      "romaji": "na",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     },
+     {
+      "main": "て",
+      "hiragana": "て",
+      "romaji": "te",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     },
+     {
+      "main": "い",
+      "hiragana": "い",
+      "romaji": "i",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     },
+     {
+      "main": "ます",
+      "hiragana": "ます",
+      "romaji": "masu",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "取り扱い",
+    "hiragana": "とりあつかい",
+    "basicForm": "取り扱い",
+    "pos": "名詞-一般",
+    "separation": [
+     {
+      "main": "取り扱",
+      "hiragana": "とりあつか",
+      "romaji": "toriatsuka",
+      "isKana": true,
+      "isKanji": true,
+      "isMixed": false
+     },
+     {
+      "main": "い",
+      "hiragana": "い",
+      "romaji": "i",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "に",
+    "hiragana": "に",
+    "basicForm": "に",
+    "pos": "助詞-格助詞-一般",
+    "separation": [
+     {
+      "main": "に",
+      "hiragana": "に",
+      "romaji": "ni",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "注意",
+    "hiragana": "ちゅうい",
+    "basicForm": "注意",
+    "pos": "名詞-サ変接続",
+    "separation": [
+     {
+      "main": "注意",
+      "hiragana": "ちゅうい",
+      "romaji": "chuui",
+      "isKana": false,
+      "isKanji": true,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "して",
+    "hiragana": "して",
+    "basicForm": "する",
+    "pos": "動詞-自立",
+    "separation": [
+     {
+      "main": "し",
+      "hiragana": "し",
+      "romaji": "shi",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     },
+     {
+      "main": "て",
+      "hiragana": "て",
+      "romaji": "te",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "ください",
+    "hiragana": "ください",
+    "basicForm": "くださる",
+    "pos": "動詞-非自立",
+    "separation": [
+     {
+      "main": "ください",
+      "hiragana": "ください",
+      "romaji": "kudasai",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "お母さん",
+    "hiragana": "おかあさん",
+    "basicForm": "お母さん",
+    "pos": "名詞-一般",
+    "separation": [
+     {
+      "main": "お",
+      "hiragana": "お",
+      "romaji": "o",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     },
+     {
+      "main": "母",
+      "hiragana": "かあ",
+      "romaji": "kaa",
+      "isKana": false,
+      "isKanji": true,
+      "isMixed": false
+     },
+     {
+      "main": "さん",
+      "hiragana": "さん",
+      "romaji": "san",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "は",
+    "hiragana": "わ",
+    "basicForm": "は",
+    "pos": "助詞-係助詞",
+    "separation": [
+     {
+      "main": "は",
+      "hiragana": "わ",
+      "romaji": "wa",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "食べられなかった",
+    "hiragana": "たべられなかった",
+    "basicForm": "食べる",
+    "pos": "動詞-自立",
+    "separation": [
+     {
+      "main": "食",
+      "hiragana": "た",
+      "romaji": "ta",
+      "isKana": false,
+      "isKanji": true,
+      "isMixed": false
+     },
+     {
+      "main": "べ",
+      "hiragana": "べ",
+      "romaji": "be",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     },
+     {
+      "main": "られ",
+      "hiragana": "られ",
+      "romaji": "rare",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     },
+     {
+      "main": "なかっ",
+      "hiragana": "なかっ",
+      "romaji": "naka",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     },
+     {
+      "main": "た",
+      "hiragana": "た",
+      "romaji": "ta",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   }
+  ],
+  [
+   {
+    "origin": "大きい",
+    "hiragana": "おうきい",
+    "basicForm": "大きい",
+    "pos": "形容詞-自立",
+    "separation": [
+     {
+      "main": "大",
+      "hiragana": "おう",
+      "romaji": "ou",
+      "isKana": false,
+      "isKanji": true,
+      "isMixed": false
+     },
+     {
+      "main": "きい",
+      "hiragana": "きい",
+      "romaji": "kii",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "通り",
+    "hiragana": "とうり",
+    "basicForm": "通り",
+    "pos": "名詞-一般",
+    "separation": [
+     {
+      "main": "通",
+      "hiragana": "とう",
+      "romaji": "tou",
+      "isKana": false,
+      "isKanji": true,
+      "isMixed": false
+     },
+     {
+      "main": "り",
+      "hiragana": "り",
+      "romaji": "ri",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "を",
+    "hiragana": "を",
+    "basicForm": "を",
+    "pos": "助詞-格助詞-一般",
+    "separation": [
+     {
+      "main": "を",
+      "hiragana": "を",
+      "romaji": "wo",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "歩いて",
+    "hiragana": "あるいて",
+    "basicForm": "歩く",
+    "pos": "動詞-自立",
+    "separation": [
+     {
+      "main": "歩",
+      "hiragana": "ある",
+      "romaji": "aru",
+      "isKana": false,
+      "isKanji": true,
+      "isMixed": false
+     },
+     {
+      "main": "い",
+      "hiragana": "い",
+      "romaji": "i",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     },
+     {
+      "main": "て",
+      "hiragana": "て",
+      "romaji": "te",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "大阪",
+    "hiragana": "おうさか",
+    "basicForm": "大阪",
+    "pos": "名詞-固有名詞-地域-一般",
+    "separation": [
+     {
+      "main": "大阪",
+      "hiragana": "おうさか",
+      "romaji": "ousaka",
+      "isKana": false,
+      "isKanji": true,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "に",
+    "hiragana": "に",
+    "basicForm": "に",
+    "pos": "助詞-格助詞-一般",
+    "separation": [
+     {
+      "main": "に",
+      "hiragana": "に",
+      "romaji": "ni",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "行っ",
+    "hiragana": "いっ",
+    "basicForm": "行く",
+    "pos": "動詞-自立",
+    "separation": [
+     {
+      "main": "行",
+      "hiragana": "い",
+      "romaji": "i",
+      "isKana": false,
+      "isKanji": true,
+      "isMixed": false
+     },
+     {
+      "main": "っ",
+      "hiragana": "っ",
+      "romaji": "",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   },
+   {
+    "origin": "た",
+    "hiragana": "た",
+    "basicForm": "た",
+    "pos": "助動詞",
+    "separation": [
+     {
+      "main": "た",
+      "hiragana": "た",
+      "romaji": "ta",
+      "isKana": true,
+      "isKanji": false,
+      "isMixed": false
+     }
+    ]
+   }
+  ]
+ ],
+ "elapsed_ms": 42.6
+}
